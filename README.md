@@ -1,6 +1,3 @@
---- 
-Author: @r0hnx
----
 # Job Scheduler as a service
 
 ## Problem Statement 
