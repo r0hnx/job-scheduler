@@ -1,4 +1,4 @@
-# Job Scheduler as a service
+# Job Scheduler as a service ( [Jupiter](https://jupiter.money/) )
 
 ## Problem Statement 
 Managing and scheduling jobs, especially in a large-scale system, can be complex and inefficient. There's a lack of centralized, automated solutions that can handle job dependencies, retries, and notifications. 
